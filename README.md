@@ -1,2 +1,3 @@
-# poisson-solver
-Many different ways of solving poisson equation. This repo is intended to test different algorithms for solving it.
+# Small Solvers.
+
+This is a repository intended to test different algorithms for solving equations. Each file is supposed to be self contained, and may be compiled independently. For now anyway...
